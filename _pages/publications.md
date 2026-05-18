@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. Men, J., Liu, H., Tang, Y., You, J., Dong, J., & Cao, J. (2026). ICML, accepted.
+1. Men, J., Liu, H., Tang, Y.(Co-first author), You, J., Dong, J., & Cao, J. (2026). International Conference on Machine Learning (ICML), accepted.
 
 1. Li, J., Du, H., Yu, W., Tang, Y., You, J., Du, S., & Li, W. (2026). Cadmamba: Clustering Adaptive Mamba for Multivariate Time Series Forecasting. In *ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)* (pp. 3066-3070). IEEE.
 
@@ -21,7 +21,7 @@ author_profile: true
 
 1. Yu, W., Li, W., Zheng, K., Tang, Y., Li, J., Du, H., Du, S., & You, J. (2025). A Multi-Scale Decomposition and Fusion Framework Utilizing Mamba for Enhanced Time Series Forecasting. In *2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC)* (pp. 3894-3900). IEEE.
 
-1. Jia, S., Zhang, C., & Tang, Y. (2025). Change-Point Detection with Local Trend Adjustment. *Statistica Sinica*, accepted.
+1. Jia, S., Zhang, C., & Tang, Y. (2025). Change-Point Detection with Local Trend Adjustment. *Statistica Sinica*, 2027, 37(3), 1-40.
 
 1. Li, W., Yuan, J., Du, H., Li, J., Du, S., & Tang, Y. (2025). DAEM: A Decomposed Attention-Enhanced Mamba Model for Multivariate Time Series Forecasting. In *2025 International Joint Conference on Neural Networks (IJCNN)* (pp. 1-8). IEEE.
 
