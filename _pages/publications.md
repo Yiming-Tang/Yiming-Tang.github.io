@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. Men, J., Liu, H., Tang, Y.(Co-first author), You, J., Dong, J., & Cao, J. (2026). International Conference on Machine Learning (ICML), accepted.
+1. Men, J., Liu, H., Tang, Y.(Co-first author), You, J., Dong, J., & Cao, J. (2026). FunCQNet: A Functional Censored Quantile Neural Network for Predicting Long-Term Post-Transplant Kidney Survival. *International Conference on Machine Learning (ICML)*, accepted.
 
 1. Li, J., Du, H., Yu, W., Tang, Y., You, J., Du, S., & Li, W. (2026). Cadmamba: Clustering Adaptive Mamba for Multivariate Time Series Forecasting. In *ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)* (pp. 3066-3070). IEEE.
 
