@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor in School of Statistics and Mathematics at Shanghai Lixin University of Accounting and Finance. In 2020, I obtained my Ph.D degree in Statistics from School of Statistics and Management, Shanghai University of Finance and Economics. During 2018-2019, I worked as a visiting scholar in Department of Statistics, North Carolina State University. I also visited Simon Fraser University in 2026. My research interests are mainly on network data analysis, temporal and spatial data analysis, and machine learning.
+I am currently an Assistant Professor in the School of Statistics and Mathematics at Shanghai Lixin University of Accounting and Finance. I received my Ph.D. in Statistics from the School of Statistics and Management at Shanghai University of Finance and Economics in 2020. From 2018 to 2019, I was a visiting scholar in the Department of Statistics at North Carolina State University, and I also visited Simon Fraser University in 2026. My research interests include network data analysis, temporal and spatial data analysis, and machine learning.
 
 
 # Education
@@ -20,6 +20,6 @@ I am currently an assistant professor in School of Statistics and Mathematics at
 # Research Interests
 
 - Network Data Analysis
-- Nonparametric / Semiparametric Modelling
+- Temporal and Spatial Data Analysis
 - Machine Learning
 
