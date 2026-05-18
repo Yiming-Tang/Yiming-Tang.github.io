@@ -5,12 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-{% endif %}
+<ol>
+  <li>“DAEM: A Decomposed Attention-Enhanced Mamba Model for Multivariate Time Series Forecasting”, International Joint Conference on Neural Networks, 2025.6.30-7.5, Rome (online).</li>
+  <li>“A Dual-Basis Multi-scale Mixing Architecture for Long-Term Irregular Time Series Forecasting”, International Conference on Statistics and Data Science, 2025.6.23-6.25, Vancouver.</li>
+  <li>“Change Point Detection in Dynamic Networks Using Probit Tensor Factorization Model”, 高维统计研讨会，2019.12.10-12.12，上海。</li>
+  <li>“Network Vector Autoregression with Individual Effects”, 第三届上海市高校统计学博士生学术论坛，2019.12.1，上海。</li>
+</ol>
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
